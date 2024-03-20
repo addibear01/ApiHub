@@ -86,4 +86,9 @@ export const apis: Api[] = [
     label: 'Pokemon',
     url: 'https://pokeapi.co/api/v2/pokemon?limit=100&offset=200',
   },
+  {
+    id: 18,
+    label: 'Recipes',
+    url: 'www.themealdb.com/api/json/v1/1/search.php?f=a',
+  },
 ];
